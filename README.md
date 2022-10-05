@@ -8,10 +8,10 @@ For simplicity, the syllabus of the course is below:
 Lectures 1-2: An Evolutionary Interpretation of Technical Change
 
   Topics: the nature of technology; how technology evolves
-  
   References: Dosi and Nelson (2010)
 
 Lecture 3: National Systems of Innovation
+
   Topics: definition and stylised facts of a NSI; case studies based on European economies
   References: Lundvall (2007), Maurseth and Verspagen (1999)
   Suggested reference (just if you are interested in the topic): Freeman (1982)
