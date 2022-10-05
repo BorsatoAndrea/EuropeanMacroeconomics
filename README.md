@@ -6,7 +6,9 @@ The general repository has three different folders, specific to each class. Ever
 For simplicity, the syllabus of the course is below:
 
 Lectures 1-2: An Evolutionary Interpretation of Technical Change
+
   Topics: the nature of technology; how technology evolves
+  
   References: Dosi and Nelson (2010)
 
 Lecture 3: National Systems of Innovation
